@@ -1,6 +1,5 @@
-# group2_gh_assignment
-Group 2 
-Mark Fiegel
-Brett Pressley 
-Colton Gregory
-Ryan Wallace
+# Group 2
+Mark Fiegel,/n
+Brett Pressley, 
+Colton Gregory,
+Ryan Wallace,
