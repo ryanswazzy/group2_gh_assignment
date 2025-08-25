@@ -2,4 +2,4 @@
 Mark Fiegel,
 Brett Pressley, 
 Colton Gregory,
-Ryan Wallace,
+Ryan Wallace
