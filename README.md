@@ -1,5 +1,5 @@
 # Group 2
-Mark Fiegel,/n
+Mark Fiegel,
 Brett Pressley, 
 Colton Gregory,
 Ryan Wallace,
